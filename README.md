@@ -116,13 +116,17 @@ I specialize in **Data Analytics, Business Intelligence, and Machine Learning** 
 
 ---
 
+## 📄 Download My Resume  
+📥 **[Click Here to Download Resume](https://github.com/Harishmadapakula/Harishmadapakula/blob/main/Harish_Madapakula_Resume.pdf)**  
+
+*(Make sure to upload your resume as `Harish_Madapakula_Resume.pdf` in your GitHub repository to make this link work!)*  
+
 ## 📊 GitHub Stats  
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harishmadapakula&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Harishmadapakula&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishmadapakula&layout=compact&theme=radical" />
-</p>
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harishmadapakula&theme=radical)  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harishmadapakula&show_icons=true&theme=radical)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishmadapakula&layout=compact&theme=radical)  
 
 ---
 
